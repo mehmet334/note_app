@@ -85,12 +85,3 @@ Tarayıcıda otomatik olarak açılmazsa [http://localhost:5173](http://localhos
 
 ---
 
-## 👨‍💻 Geliştirici
-
-**Mehmet Tezcan**
-📍 React Frontend Developer
-💬 [GitHub](https://github.com/mehmet334)
-
----
-
-> 🎯 Bu proje, “Note App” ödevi gereksinimlerini tam olarak karşılayacak şekilde hazırlanmıştır.
